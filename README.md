@@ -1,4 +1,4 @@
-### Olá pessoas, Bem vindos! 👋
+### Olá, jovens padawans! 👋
 
 ![Melissa Macedo GitHub stats](https://github-readme-stats.vercel.app/api?username=MelissaMacedo&show_icons=true&theme=dracula)
 
@@ -12,4 +12,4 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="java" src="  https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   
-## Gradudanda de Ciência da Computação, tenho 21 anos e sou bastante curiosa no que diz respeito a tecnologia e inovação. Acredito que um trabalho deva ser feito em equipe, para que haja bom desempenho, gere excelentes resultados e traga satisfação. 
+## Gradudanda em Ciência da Computação, tenho 21 anos e sou bastante curiosa no que diz respeito a tecnologia e inovação. Acredito que um trabalho deva ser feito em equipe, para que haja bom desempenho, gere excelentes resultados e traga satisfação. 
