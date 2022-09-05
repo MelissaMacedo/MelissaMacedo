@@ -3,7 +3,7 @@
 ## Gradudanda em Ciência da Computação, tenho 21 anos e sou bastante curiosa no que diz respeito a tecnologia e inovação. Acredito que um trabalho deva ser feito em equipe, para que haja bom desempenho, gere excelentes resultados e traga satisfação.
 ![Melissa Macedo GitHub stats](https://github-readme-stats.vercel.app/api?username=MelissaMacedo&show_icons=true&theme=dracula)
 
-## Tecnologias que costumo usar diariamente
+## Stacks
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
