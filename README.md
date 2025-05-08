@@ -1,6 +1,6 @@
 ### Helcome, to my world! 👋
 
-## Gradudanda em Ciência da Computação, tenho 23 anos. Me dá um problema que eu resolvo ;)
+## Gradudanda em Ciência da Computação, tenho 24 anos. Me dá um problema que eu resolvo ;)
 ![Melissa Macedo GitHub stats](https://github-readme-stats.vercel.app/api?username=MelissaMacedo&show_icons=true&theme=dracula)
 
 ## Stacks
